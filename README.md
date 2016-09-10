@@ -2,12 +2,20 @@
 
 A collection of awesome resources for building and deploying static websites
 
-## Comment
+## Why static? 
+
+- https://www.datocms.com/why-static/
+
+## Comment and Form
 
 - [Jekyll AWS Comment](http://ummels.github.io/jekyll-aws-comments/) - Static comments for Jekyll with AWS Lambda and GitHub.
 - [Lambda comments](https://github.com/jimpick/lambda-comments) - Blog commenting system built with AWS Lambda
 
-## Form
+## CMS/ Interface
+
+- [DatoCMS](https://www.datocms.com/)
+- 
+
 
 ## Static site generator
 
